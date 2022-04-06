@@ -1,0 +1,14 @@
+[
+{
+ "name":1 ,"item":"Bed", "price":"₱500", "image":"images/furniture01.jpg"
+},
+{
+ "name":2 ,"item":"Kabinet", "price":"₱5000", "image":"images/furniture02.jpg"
+},
+{
+ "name":3 ,"item":"Sofa", "price":"₱5000", "image":"images/furniture03.jpg"
+},
+{
+ "name":4 ,"item":"Gaming Chair", "price":"₱5000", "image":"images/furniture04.jpg"
+}
+]
