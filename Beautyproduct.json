@@ -1,0 +1,14 @@
+[
+{
+ "name":1 ,"item":"Matte Lipstick", "price":"₱200", "image":"images/beauty01.jpg"
+},
+{
+ "name":2 ,"item":"Dior Mascara", "price":"₱5000", "image":"images/beauty01.jpg"
+},
+{
+ "name":3 ,"item":"Foundation", "price":"₱5000", "image":"images/beauty01.jpg"
+},
+{
+ "name":4 ,"item":"Makeup Cosmetics", "price":"₱5000", "image":"images/beauty01.jpg"
+}
+]
