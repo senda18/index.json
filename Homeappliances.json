@@ -1,0 +1,14 @@
+[
+{
+ "name":1 ,"item":"Refrigerator", "price":"₱10,000", "image":"images/appliances01.jpg"
+},
+{
+ "name":2 ,"item":"Oven", "price":"₱10,000", "image":"images/appliances02.jpg"
+},
+{
+ "name":3 ,"item":"Heater", "price":"₱10,000", "image":"images/appliances03.jpg"
+},
+{
+ "name":4 ,"item":"Rice Cooker", "price":"₱10,000", "image":"images/appliances04.jpg"
+}
+]
