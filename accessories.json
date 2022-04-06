@@ -1,0 +1,14 @@
+[
+{
+ "name":1 ,"item":"Ring Gold", "price":"₱5000", "image":"images/accessories1.jpg"
+},
+{
+ "name":2 ,"item":"Bracelet Gold", "price":"₱5000", "image":"images/accessories2.jpg"
+},
+{
+ "name":3 ,"item":"Earing Gold", "price":"₱5000", "image":"images/accessories3.jpg"
+},
+{
+ "name":4 ,"item":"Rolex Watch", "price":"₱5000", "image":"images/accessories4.jpg"
+}
+]
